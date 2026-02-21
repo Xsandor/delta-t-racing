@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xsandor.github.io/delta-t-racing/sitemap.xml

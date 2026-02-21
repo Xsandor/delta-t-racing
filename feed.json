@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Delta T Racing",
+    "description": "",
+    "home_page_url": "https://xsandor.github.io/delta-t-racing",
+    "feed_url": "https://xsandor.github.io/delta-t-racing/feed.json",
+    "user_comment": "",
+    "icon": "https://xsandor.github.io/delta-t-racing/media/website/DeltaT.svg",
+    "author": {
+        "name": "Alexander Schmidt"
+    },
+    "items": [
+    ]
+}
